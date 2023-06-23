@@ -1,0 +1,19 @@
+p {
+    color:blue;
+}
+h1 {
+   color: red;
+
+}
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    background-color: green;
+  }
+  p.one {
+    border-style: solid;
+    border-color: red;
+  }
+  
